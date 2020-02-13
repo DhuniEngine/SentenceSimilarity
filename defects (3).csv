@@ -1,0 +1,47 @@
+,Defects,Defect Text,Inspector,Comments
+0,"Ambiguities. 	",""" business intelligence""",Ishan,
+1,"Ambiguities. 	","""curation user interfaces from customer-facing userinterfaces""",Maninder Singh,"I don't have any idea about these interfaces
+"
+2,"Ambiguities. 	",""" updated to the latest version of the Polymer library""",Maninder Singh,"which latest version?
+"
+3,"Ambiguities. 	","""Polymer 2 to Polymer 3.""",Maninder Singh,"don't know what are these?
+"
+4,"Ambiguities. 	","""The goal of this project is to""",Maninder Singh,
+5,"Ambiguities. 	","""W3C web-components specification""",Maninder Singh,
+6,"Ambiguities. 	","""nternally developed components""",Maninder Singh,
+7,"Ambiguities. 	","""converting the components""",Maninder Singh,
+8,"Omissions. 	","""registering the project and subprojects with""",Maninder Singh,
+9,"Omissions. 	","""registering the project and subprojects with""",Manas Mudbari,"`with` what?
+"
+10,"Omissions. 	","""registering the project and subprojects with""",marty@lexeme.co,"with what?
+"
+11,"Ambiguities. 	","""Add the appropriate Firefly and Aspen components""",Maninder Singh,"appropriate?
+"
+12,"Ambiguities. 	","""The components in this library on not visualcomponents, but they allow you to interact with Firebase back-end services.""",Maninder Singh,
+13,"Ambiguities. 	","""The components in this library on not visualcomponents""",Manas Mudbari,
+14,"Incorrect Facts. 	","""library on not """,marty@lexeme.co,"typo probably.  ""are not""?
+"
+15,"Ambiguities. 	","""The component will provide""",Maninder Singh,
+16,"Ambiguities. 	","""to get a single record in the database.""",Maninder Singh,"single record?
+"
+17,"Ambiguities. 	","""a list of records """,Maninder Singh,
+18,"Ambiguities. 	",""" is backed by anarray of objects""",Maninder Singh,"which objects?
+"
+19,"Ambiguities. 	","""Pagination""",Maninder Singh,
+20,"Ambiguities. 	","""Disabled: a flag that indicates that the query does not run automatically""",Manas Mudbari,
+21,"Ambiguities. 	",""" the firefly components should have anoverarching firefly project""",Manas Mudbari,
+22,"Ambiguities. 	","""Similar to Google’s Paper components""",Manas Mudbari,
+23,"Ambiguities. 	","""overarching firefly project, and individual repositories for each submodule/package.""",Maninder Singh,
+24,"Ambiguities. 	","""to display an infinite list of cards.""",Maninder Singh,
+25,"Ambiguities. 	","""asp-infinite-list-mixin""",Maninder Singh,
+26,"Ambiguities. 	","""vaadin’s grid component.""",Maninder Singh,
+27,"Inconsistencies. 	","""A ​validate​ method will be provided""",Manas Mudbari,"Who will provide the ""validate"" method?
+"
+28,"Incorrect Facts. 	","""upload a file to a particular location in firebase storage""",Manas Mudbari,"I think we are migrating to Firestore instead of Firebase storage, right? Wouldn't this be redundant? Or should we change directly to Firestore?
+"
+29,"Ambiguities. 	","""the user is a curator,""",Maninder Singh,
+30,"Ambiguities. 	","""Display all tags that have been used by a model object""",Manas Mudbari,"Which ""model object""
+"
+31,"Omissions. 	","""some extra smarts""",Manas Mudbari,"What is extra smarts?
+"
+32,"Ambiguities. 	",""" whenand ID is given as input""",Maninder Singh,

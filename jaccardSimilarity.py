@@ -14,6 +14,6 @@ def get_jaccard_sim(str1, str2):
 
 
 if __name__ == "__main__":
-    sentence_1 = "This sentence is vague"
+    sentence_1 = "This sentences is vague"
     sentence_2 = "This sentence is not clear"
     print(get_jaccard_sim(sentence_1, sentence_2))

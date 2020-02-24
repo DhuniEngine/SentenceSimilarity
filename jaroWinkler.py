@@ -5,10 +5,11 @@ jellyfish'''
 
 import jellyfish
 
+
 def get_jaroWinkler_sim(str1, str2):
     a = set(str1.split())
     b = set(str2.split())
-    c = jellyfish.jaro_winkler(str(a),str(b))
+    c = jellyfish.jaro_winkler(str(a), str(b))
     return float(c)
 
 

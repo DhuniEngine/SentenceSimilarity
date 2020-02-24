@@ -76,9 +76,9 @@ def sentence_similarity(sentence1, sentence2):
 
 
 sentences = [
-    "3T bioscience got acquired by Gilead"
+    "3t science got bought out by gilead"
 ]
-focus_sentence = "Gilead bought 3T bioscience"
+focus_sentence = "Gilead bought 3T sciences"
 
 
 def symmetric_sentence_similarity(sentence1, sentence2):
